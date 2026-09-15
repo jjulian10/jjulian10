@@ -2,7 +2,7 @@ name: Generate contribution snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */24 * * *"
 
   workflow_dispatch:
 
@@ -10,25 +10,28 @@ on:
     branches:
       - main
 
-permissions:
-  contents: write
-
 jobs:
   generate:
+    permissions:
+      contents: write
+
     runs-on: ubuntu-latest
 
+    timeout-minutes: 5
+
     steps:
-      - name: Generate contribution snake
+      - name: Generate snake
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: jjunian10
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?palette=github-light&color_snake=#a5ffc1
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#a5ffc1
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
       - name: Publish snake
-        uses: github_user_name: jjulian10
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: output
-          publish_dir: ./dist
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
