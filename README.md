@@ -1,5 +1,28 @@
 <div align="center">
 
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/jjulian10/jjulian10/output/github-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/jjulian10/jjulian10/output/github-snake.svg"
+  />
+
+  <img
+    alt="Animação das contribuições de Julian Matheus"
+    src="https://raw.githubusercontent.com/jjulian10/jjulian10/output/github-snake.svg"
+  />
+</picture>
+
+</div>
+
+<br />
+
 # Julian Matheus
 
 ### Front-end Developer · Sistemas Web · UI/UX
