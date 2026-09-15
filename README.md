@@ -1,25 +1,10 @@
 <div align="center">
 
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/jjulian10/jjulian10/output/github-snake-dark.svg"
-  />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/jjulian10/jjulian10/output/github-snake.svg"
-  />
-
-  <img
-    alt="Animação das contribuições de Julian Matheus"
-    src="https://raw.githubusercontent.com/jjulian10/jjulian10/output/github-snake.svg"
-  />
-</picture>
-
-</div>
+<img
+  src="./assets/contribution-grid.svg"
+  alt="Identidade visual de Julian Matheus"
+  width="100%"
+/>
 
 <br />
 
@@ -44,6 +29,7 @@ Desenvolvo interfaces e soluções digitais com foco em organização, experiên
 
 <table>
 <tr>
+
 <td width="33%" valign="top">
 
 ### Visão
@@ -67,6 +53,7 @@ Desenvolvimento front-end, sistemas web, interfaces, documentação e soluções
 Tecnologia aplicada a problemas reais, combinando desenvolvimento, organização e experiência do usuário.
 
 </td>
+
 </tr>
 </table>
 
@@ -81,13 +68,10 @@ Tecnologia aplicada a problemas reais, combinando desenvolvimento, organização
   alt="Tecnologias"
 />
 
-</div>
-
+<br />
 <br />
 
-<div align="center">
-
-`TypeScript` · `JavaScript` · `React` · `Next.js` · `HTML` · `Sass` · `Vite` · `Git`
+`TypeScript` · `JavaScript` · `React` · `Next.js` · `HTML` · `CSS` · `Sass` · `Vite` · `Git`
 
 </div>
 
@@ -103,7 +87,7 @@ Protótipo de sistema web para acompanhamento de projetos estratégicos, indicad
 
 > Os dados apresentados no projeto são fictícios e utilizados exclusivamente para demonstração.
 
-[Ver demonstração ↗] (https://prototipo-scope.netlify.app/)
+[Ver demonstração ↗](https://prototipo-scope.netlify.app/)
 
 ---
 
@@ -131,8 +115,8 @@ Plataforma institucional voltada para documentação, organização de conhecime
 
 ```text
 TypeScript
-Arquitetura de software
-APIs e integrações
+Arquitetura de Software
+APIs e Integrações
 Cloud
 Analytics
 WebGL
