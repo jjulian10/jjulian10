@@ -1,72 +1,117 @@
+<div align="center">
+
 # Julian Matheus
 
 ### Front-end Developer · Sistemas Web · UI/UX
 
-Desenvolvedor focado em criar interfaces claras, sistemas úteis e experiências digitais bem construídas.
+**Interfaces claras. Sistemas úteis. Experiências digitais com propósito.**
 
-Atualmente trabalho com desenvolvimento front-end, soluções internas, documentação e produtos digitais voltados para problemas reais.
+Desenvolvo interfaces e soluções digitais com foco em organização, experiência do usuário e aplicação de tecnologia em problemas reais.
+
+<br />
+
+[![Portfolio](https://img.shields.io/badge/PORTFÓLIO-08090b?style=for-the-badge&logo=vercel&logoColor=white)](https://julian-matheus-dev.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GITHUB-08090b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jjulian10)
+
+</div>
 
 ---
 
 ## Sobre mim
 
-- Desenvolvedor Front-end
-- Estudante de Análise e Desenvolvimento de Sistemas
-- Experiência com sistemas e soluções institucionais
-- Interesse em arquitetura, experiência do usuário e produtos digitais
-- Porto Velho · Rondônia · Brasil
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Visão
+
+Criar produtos digitais que transformem processos e informações em experiências mais claras, úteis e eficientes.
+
+</td>
+
+<td width="33%" valign="top">
+
+### Atuação
+
+Desenvolvimento front-end, sistemas web, interfaces, documentação e soluções digitais.
+
+</td>
+
+<td width="33%" valign="top">
+
+### Diferencial
+
+Tecnologia aplicada a problemas reais, combinando desenvolvimento, organização e experiência do usuário.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Tecnologias
+## Stack
 
-- TypeScript
-- JavaScript
-- React
-- Next.js
-- HTML
-- CSS / Sass
-- SQL
-- UI / UX
-- Sistemas Web
+<div align="center">
+
+<img
+  src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,sass,git,github,vite"
+  alt="Tecnologias"
+/>
+
+</div>
+
+<br />
+
+<div align="center">
+
+`TypeScript` · `JavaScript` · `React` · `Next.js` · `HTML` · `Sass` · `Vite` · `Git`
+
+</div>
 
 ---
 
 ## Projetos em destaque
 
 ### SCOPE
-Sistema de Controle de Planos Estratégicos.
 
-[Ver projeto](https://ubiquitous-bonbon-dd4b79.netlify.app/)
+**Sistema de Controle de Planos Estratégicos**
+
+Protótipo de sistema web para acompanhamento de projetos estratégicos, indicadores, responsáveis, etapas e evolução das entregas.
+
+> Os dados apresentados no projeto são fictícios e utilizados exclusivamente para demonstração.
+
+[Ver demonstração ↗] (https://prototipo-scope.netlify.app/)
+
+---
+
+### Portfólio Julian Matheus
+
+Portfólio profissional desenvolvido com TypeScript, Sass, WebGL e Vite.
+
+O projeto explora identidade visual, experiências 3D, responsividade, animações, Analytics e apresentação de projetos como cases.
+
+[Visitar portfólio ↗](https://julian-matheus-dev.netlify.app/)
+
+[Ver repositório ↗](https://github.com/jjulian10/perfil-julian-dev)
+
+---
 
 ### Wiki.SETIC
-Plataforma de documentação e conhecimento institucional.
 
-[Visitar Wiki](https://wiki.setic.ro.gov.br/)
+Plataforma institucional voltada para documentação, organização de conhecimento, processos e informações.
 
-### Portfólio
-Meu portfólio profissional com projetos, experiências e serviços.
-
-[Visitar portfólio](https://julian-matheus-dev.netlify.app/)
+[Visitar Wiki.SETIC ↗](https://wiki.setic.ro.gov.br/)
 
 ---
 
-## Atualmente estudando
+## Atualmente explorando
 
-- TypeScript
-- Arquitetura de software
-- APIs e integrações
-- Cloud
-- Analytics
-- Experiência do usuário
-
----
-
-## Contato
-
-- [Portfólio](https://julian-matheus-dev.netlify.app/)
-- [GitHub](https://github.com/jjulian10)
-
----
-
-> Tecnologia aplicada a problemas reais.
+```text
+TypeScript
+Arquitetura de software
+APIs e integrações
+Cloud
+Analytics
+WebGL
+UI / UX
+Sistemas Web
